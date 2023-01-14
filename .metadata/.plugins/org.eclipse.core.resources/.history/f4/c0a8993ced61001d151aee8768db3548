@@ -1,0 +1,13 @@
+package OrientacaoObjeto;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Clas c = new Clas();
+		
+		c.setNome("Adriele");
+		System.out.println(c.getNome());
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package adri;
+import java.util.Scanner;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("Favor querido usuario digitar um número: ");
+		int num = entrada.nextInt(); 
+		System.out.println(num);
+		
+	}
+
+}

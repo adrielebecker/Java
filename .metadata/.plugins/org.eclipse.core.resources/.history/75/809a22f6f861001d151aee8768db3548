@@ -1,0 +1,11 @@
+package Exercicio;
+
+public class Bomba {
+ 
+	/*
+	 * fAZER A CLASSE BOMBA deve ter ter dois atributos o valor do commbustivel e 
+	 * a quantidade total de combustivel, fazer quatro metodos
+	 * 1- abastecer por - 
+	 
+	 *  */
+}

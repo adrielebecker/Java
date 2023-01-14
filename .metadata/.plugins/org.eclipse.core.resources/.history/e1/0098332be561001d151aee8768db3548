@@ -1,0 +1,13 @@
+package adri;
+
+public class TiposPrimitivos {
+
+	public static void main(String[] args) {
+		
+		int inteiro = 10;
+		float pontoFlutuante = (float) 5.586735365383;
+		double dobro = 5.0387968363729872;
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package OrientacaoObjeto;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Clas c = new Clas();
+		
+		c.setNome("Adriele");
+		c.setTelefone("9999999999");
+		c.setIdade(15);
+		c.setEmail("adriele@gmail");
+		
+		System.out.println(c.toString());
+		
+	}
+
+}

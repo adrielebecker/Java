@@ -1,0 +1,19 @@
+package adri;
+import java.util.Scanner;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner entrada = new Scanner(System.in);
+		System.out.print("Favor querido usuario digitar um número: ");
+		int num = entrada.nextInt(); 
+		if(num % 2 == 0) {
+			num = num + 1; 
+		}
+		System.out.printf("Seu número é: "+ num);
+		
+	}
+
+}

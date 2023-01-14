@@ -1,0 +1,9 @@
+package Exercicio;
+
+public class MainBomba {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

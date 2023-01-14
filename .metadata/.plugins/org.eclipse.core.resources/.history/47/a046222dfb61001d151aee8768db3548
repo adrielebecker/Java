@@ -1,0 +1,12 @@
+package Exercicio;
+
+public class MainBomba {
+
+	public static void main(String[] args) {
+		Bomba result = new Bomba(100,200);
+		
+		result.litros();
+		System.out.println(result.toString());
+	}
+
+}
